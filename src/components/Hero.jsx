@@ -16,7 +16,7 @@ const Hero = () => {
                 <button className='bg-pink-600 hover:bg-pink-700 px-10 text-lg py-2 rounded-lg text-white flex justify-between items-center gap-3'>Start reading<BiRightArrowAlt className='text-2xl' /></button>
                 <p className='text-gray-500 font-light'>It's Completely free!</p>
                 <div className='flex gap-1 '>
-                    <button className='bg-gray-300 px-2 py-1 rounded-md flex justify-between items-center gap-2'><AiOutlineGithub />Start</button>
+                    <button className='bg-gray-300 px-2 py-1 rounded-md flex justify-between items-center gap-2'><AiOutlineGithub />Stars</button>
                     <button className='bg-gray-300 px-4 py-1 rounded-md'>38,195</button>
                 </div>
             </div>
