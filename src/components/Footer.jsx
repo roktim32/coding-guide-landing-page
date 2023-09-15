@@ -20,7 +20,7 @@ export function Footer() {
                                         fill="white"
                                     />
                                 </svg>
-                                <span className="ml-4 text-lg font-bold text-white">DevUI</span>
+                                <span className="ml-4 text-lg font-bold text-white">Hex Coding Guide</span>
                             </div>
                         </a>
                     </div>
